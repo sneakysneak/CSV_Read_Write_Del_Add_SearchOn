@@ -1,0 +1,9 @@
+\\Mac\Home\Downloads\AssignmentX\AssignmentX\bin\Debug\AssignmentX.exe.config
+\\Mac\Home\Downloads\AssignmentX\AssignmentX\bin\Debug\AssignmentX.exe
+\\Mac\Home\Downloads\AssignmentX\AssignmentX\bin\Debug\AssignmentX.pdb
+\\Mac\Home\Downloads\AssignmentX\AssignmentX\obj\Debug\AssignmentX.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\AssignmentX\AssignmentX\obj\Debug\AssignmentX.Form1.resources
+\\Mac\Home\Downloads\AssignmentX\AssignmentX\obj\Debug\AssignmentX.Properties.Resources.resources
+\\Mac\Home\Downloads\AssignmentX\AssignmentX\obj\Debug\AssignmentX.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\AssignmentX\AssignmentX\obj\Debug\AssignmentX.exe
+\\Mac\Home\Downloads\AssignmentX\AssignmentX\obj\Debug\AssignmentX.pdb
